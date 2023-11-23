@@ -1,0 +1,1 @@
+# Hosea is an AI Powered Theologian for The King James Version Bible
